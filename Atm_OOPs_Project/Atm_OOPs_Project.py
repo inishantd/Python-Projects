@@ -1,6 +1,6 @@
 class Atm:
     
-    #Constructor
+    #Constructor - Used to write configuration related code........
     def __init__(self):
 
         self.pin = ""
